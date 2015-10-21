@@ -4,11 +4,11 @@ Shopping list for soldering workshop
 Soldering iron
 --------------
 
-**Highly recommended**: [Hakko FX888D Soldering Station](http://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M/)
+- **Highly recommended**: [Hakko FX888D Soldering Station](http://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M/)
 
 It's temperature regulated, durable, and comes with a stand and sponge and tip cleaner. This iron will travel with you like a friend.
 
-Decent: [Weller WLC100 Soldering Station](http://www.amazon.com/Weller-WLC100-40-Watt-Soldering-Station/dp/B000AS28UC/)
+- Decent: [Weller WLC100 Soldering Station](http://www.amazon.com/Weller-WLC100-40-Watt-Soldering-Station/dp/B000AS28UC/)
 
 It has a knob to adjust temperature. The tip uses a setscrew so it will eventually get loose due to thermal expansion. It's better than a $10 iron picked from Radio Shack's rotting corpse, but the upgrade to the Hakko is *so worth it*. If you don't get the Hakko iron you should also buy [this](http://www.amazon.com/Hakko-599B-02-Solder-Cleaning-Holder/dp/B00FZPGDLA/).
 
