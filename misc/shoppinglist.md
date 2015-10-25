@@ -14,7 +14,7 @@ Things that will be nice to have for the workshop:
 - Helping Hands
 - Flux
 
-For the workshop, we will provide the solder and components so don't worry about bringing those. If you have anything you'd like to add to the optional portion of this list, message me (@wpo) on slack and I'll add it.
+For the workshop, we will provide the solder and components so don't worry about bringing those. If you have anything you'd like to add to this list, message me (@wpo) on slack and I'll add it.
 
 Soldering iron
 --------------
