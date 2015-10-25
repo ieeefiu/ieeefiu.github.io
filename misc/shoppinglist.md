@@ -1,19 +1,36 @@
-Shopping list for soldering workshop
-====================================
+Soldering items
+===============
+
+This is a list of recommended purchases for having a decent home soldering setup. Not all of this will be necessary for the soldering workshop.
+
+The bare minimum you will need for the workshop:
+
+- Soldering iron
+- Flush Cutters
+- Wire Strippers
+
+Things that will be nice to have for the workshop:
+
+- Helping Hands
+- Flux
+
+For the workshop, we will provide the solder and components so don't worry about bringing those. If you have anything you'd like to add to the optional portion of this list, message me (@wpo) on slack and I'll add it.
 
 Soldering iron
 --------------
 
-- **Highly recommended**: [Hakko FX888D Soldering Station](http://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M/)
+- **Highly recommended**: [Hakko FX888D Soldering Station](http://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M/) - $90
 
 It's temperature regulated, durable, and comes with a stand and sponge and tip cleaner. This iron will travel with you like a friend.
 
-- Decent: [Weller WLC100 Soldering Station](http://www.amazon.com/Weller-WLC100-40-Watt-Soldering-Station/dp/B000AS28UC/)
+- Decent: [Weller WLC100 Soldering Station](http://www.amazon.com/Weller-WLC100-40-Watt-Soldering-Station/dp/B000AS28UC/) - $40
 
 It has a knob to adjust temperature. The tip uses a setscrew so it will eventually get loose due to thermal expansion. It's better than a $10 iron picked from Radio Shack's rotting corpse, but the upgrade to the Hakko is *so worth it*. If you don't get the Hakko iron you should also buy [this](http://www.amazon.com/Hakko-599B-02-Solder-Cleaning-Holder/dp/B00FZPGDLA/).
 
-Essentials
-----------
+- Cheap: **If $40 is too much to spend on a soldering iron, wait until you can afford a soldering iron.**
+
+Essential tools
+---------------
 
 - [Kester 44 Rosin Core Solder 63/37, 1 lb spool (this will last forever)](http://www.amazon.com/Kester-Rosin-Core-Solder-Spool/dp/B00068IJX6/)
 
